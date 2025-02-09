@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": 99.99,
+    "description": "High-quality noise-canceling headphones with 20hr battery life.",
+    "category": "Electronics",
+    "stock": 50,
+    "image": "https://picsum.photos/id/3/300"
+  },
+  {
+    "name": "Programming Book: Python Crash Course",
+    "price": 29.99,
+    "description": "A hands-on introduction to Python programming.",
+    "category": "Books",
+    "stock": 100,
+    "image": "https://picsum.photos/id/6/300"
+  }
+]
